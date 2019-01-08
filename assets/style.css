@@ -1,0 +1,18 @@
+:root{
+    --bg-color:#b2ebf2;
+    --bg-color2:#4dd0e1;
+    /* --img-bg:url(../assets/parr3.jpg); */
+}
+#rw1{
+    margin-top:20px;
+}
+
+/* body{
+    background-image: url(../assets/parr3.jpg);
+} */
+html{
+    background: var(--bg-color);
+}  
+#div2{
+    background: var(--bg-color2);
+} 
